@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="homescreen_txt">Find Movies, TV series, and more...</string>
+    <string name="search">Search...</string>
+    <string name="short_desc">Rey (Daisy Ridley) finally manages to find the legendary Jedi knight, Luke Skywalker (Mark Hamill) on an island with a magical aura. The heroes of The Force Awakens including Leia, Finn Read more..</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="sample_movie_name">Star Wars: The Last Jedi</string>
+    <string name="_153_minutes">153 minutes</string>
+    <string name="_7_0_imdb">7.0 (IMDb)</string>
+    <string name="release_date">Release date</string>
+    <string name="december_9_2018">December 9, 2018</string>
+    <string name="genre">Genre</string>
+    <string name="description">Description</string>
+    <string name="similar_movies">Similar Movies</string>
+    <string name="related_movies">Related Movies</string>
+    <string name="year">2018</string>
+    <string name="welcome_txt">Find Movies, TV series, and More...</string>
+</resources>
