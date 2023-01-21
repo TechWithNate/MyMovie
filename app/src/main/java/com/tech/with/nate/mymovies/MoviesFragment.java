@@ -62,8 +62,8 @@ public class MoviesFragment extends Fragment implements OnItemClickListener{
         recyclerView.setLayoutManager(layoutManager);
 
 //        Getting data from the API
-  //      GetData getData = new GetData();
-  //      getData.execute();
+        GetData getData = new GetData();
+              getData.execute();
 
         //Testing from the api class
         TMDbApi.getAllPagesMovies(new TMDbApi.OnMoviesFetchedListener() {
